@@ -24,7 +24,7 @@ Power BI ile geliştirilmiş interaktif bir dashboard'dur.
 - Power Query (M Dili)
 
 ## 📸 Dashboard Görünümü
-![HR Dashboard](dashboard.png)
+![HR Dashboard](HR%20Dashboard.png)
 
 ## 📂 Dosyalar
 | Dosya | Açıklama |
